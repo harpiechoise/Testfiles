@@ -1,1 +1,14 @@
-null
+{
+    "packages": [
+        {
+            "nombre": "Ejemplo github",
+            "short_desc": "Plugin para testear el marketplace",
+            "url": "https://github.com/harpiechoise/Testfiles/blob/main/install_plugin.zip?raw=true"
+        },
+        {
+            "nombre": "Hello Plugin",
+            "short_desc": "Primer plugin en el marketplace",
+            "url": "https://github.com/harpiechoise/Testfiles/blob/main/plugin1.zip?raw=true"
+        }
+    ]
+}
