@@ -1,0 +1,7 @@
+{
+    "packages": [{
+        "nombre": "Ejemplo github",
+        "short_desc": "Plugin para testear el marketplace",
+        "url": "https://github.com/harpiechoise/Testfiles/blob/main/install_plugin.zip?raw=true"
+    }]
+}
