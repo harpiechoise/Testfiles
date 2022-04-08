@@ -14,6 +14,11 @@
             "nombre": "Hello World Plugin",
             "short_desc": "Plugin en el market",
             "url": "https://github.com/harpiechoise/Testfiles/blob/main/plugin1.zip?raw=true"
+        },
+        {
+            "nombre": "Trivia",
+            "short_desc": "Un juego de trivia",
+            "url": "https://github.com/harpiechoise/Testfiles/blob/main/trivia_plugin.zip?raw=true"
         }
     ]
 }
